@@ -1,2 +1,2 @@
 # python
-this is my first git
+this is my python git in which all code are save
